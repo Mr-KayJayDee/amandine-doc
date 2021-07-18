@@ -109,6 +109,11 @@
 <br>[vangogh](Commands/%F0%9F%93%B7%20Images/vangogh.md "Affiche un tableau de Vangogh.")
 <br>[wallpaper](Commands/%F0%9F%93%B7%20Images/wallpaper.md "Affiche un fond d'écran.")
 <br>[wanted](Commands/%F0%9F%93%B7%20Images/wanted.md "Permet de générer une image wanted avec votre photo de profil ou celle de vos amis.")
+## 👑 Commande personnalisée - (4 Commandes): 
+[friandise](Commands/%F0%9F%91%91%20Commande%20personnalis%C3%A9e/friandise.md "👑 Commande personnalisée")
+<br>[ismaelo](Commands/%F0%9F%91%91%20Commande%20personnalis%C3%A9e/ismaelo.md "👑 Commande personnalisée")
+<br>[zerio](Commands/%F0%9F%91%91%20Commande%20personnalis%C3%A9e/zerio.md "👑 Commande personnalisée")
+<br>[konoh](Commands/%F0%9F%91%91%20Commande%20personnalis%C3%A9e/konoh.md "👑 Commande personnalisée")
 ## 🛡️ Modération - (16 Commandes): 
 [addrole](Commands/%F0%9F%9B%A1%EF%B8%8F%20Mod%C3%A9ration/addrole.md "Permet d'ajouter un rôle à un membre.")
 <br>[ban](Commands/%F0%9F%9B%A1%EF%B8%8F%20Mod%C3%A9ration/ban.md "Permet de bannir un membre.")
@@ -126,11 +131,6 @@
 <br>[setservername](Commands/%F0%9F%9B%A1%EF%B8%8F%20Mod%C3%A9ration/setservername.md "Permet de changer le nom du serveur.")
 <br>[unmute](Commands/%F0%9F%9B%A1%EF%B8%8F%20Mod%C3%A9ration/unmute.md "Permet de démuter un utilisateur.")
 <br>[verifguildbl](Commands/%F0%9F%9B%A1%EF%B8%8F%20Mod%C3%A9ration/verifguildbl.md "Permet de vérifier s'il y a des utilisateurs blacklistés sur le serveur.")
-## 👑 Commande personnalisée - (4 Commandes): 
-[friandise](Commands/%F0%9F%91%91%20Commande%20personnalis%C3%A9e/friandise.md "👑 Commande personnalisée")
-<br>[ismaelo](Commands/%F0%9F%91%91%20Commande%20personnalis%C3%A9e/ismaelo.md "👑 Commande personnalisée")
-<br>[zerio](Commands/%F0%9F%91%91%20Commande%20personnalis%C3%A9e/zerio.md "👑 Commande personnalisée")
-<br>[konoh](Commands/%F0%9F%91%91%20Commande%20personnalis%C3%A9e/konoh.md "👑 Commande personnalisée")
 ## 🎭 Roleplay - (26 Commandes): 
 [addbank](Commands/%F0%9F%8E%AD%20Roleplay/addbank.md "Permet d'ajouter de la monnaie dans la banque d'un utilisateur.")
 <br>[additem](Commands/%F0%9F%8E%AD%20Roleplay/additem.md "Permet de créer un objet dans le magasin du serveur.")

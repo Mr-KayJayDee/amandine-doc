@@ -12,7 +12,7 @@
 > ` - ` 😏 *We even have an NSFW category, for the naughty ones ... (requires an NSFW channel)*<br>
 > ` - ` 🔗 A complete system of invitations and rank.
 ### 📚 In here you will find all you need to know on how to use Amandine and all her commands.
-### 🌍 Available languages : [en-US](Documentation/en-US/README.md), [fr-FR](Documentation/fr-FR/README.md)
+### 🌍 Available languages : [en-US](en-US/README.md), [fr-FR](fr-FR/README.md)
 ### 🐛 If you find anything that is not documented here please report it on the [🔧 Support server]({{supportServer}}).
 ## 📂 Links:
 [🔑 Invite the bot](https://discord.com/api/oauth2/authorize?client_id=688495620989780002&permissions=8&scope=bot%20applications.commands)

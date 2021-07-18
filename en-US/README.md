@@ -109,6 +109,11 @@
 <br>[vangogh](Commands/%F0%9F%93%B7%20Pictures/vangogh.md "Displays a Vangogh painting.")
 <br>[wallpaper](Commands/%F0%9F%93%B7%20Pictures/wallpaper.md "Displays a wallpaper.")
 <br>[wanted](Commands/%F0%9F%93%B7%20Pictures/wanted.md "Allows you to generate a wanted image with your profile picture or that of your friends.")
+## 👑 Premium commands - (4 Commands): 
+[friandise](Commands/%F0%9F%91%91%20Premium%20commands/friandise.md "👑 Premium commands")
+<br>[ismaelo](Commands/%F0%9F%91%91%20Premium%20commands/ismaelo.md "👑 Premium commands")
+<br>[zerio](Commands/%F0%9F%91%91%20Premium%20commands/zerio.md "👑 Premium commands")
+<br>[konoh](Commands/%F0%9F%91%91%20Premium%20commands/konoh.md "👑 Premium commands")
 ## 🛡️ Moderation - (16 Commands): 
 [addrole](Commands/%F0%9F%9B%A1%EF%B8%8F%20Moderation/addrole.md "Allows you to add a role to a member.")
 <br>[ban](Commands/%F0%9F%9B%A1%EF%B8%8F%20Moderation/ban.md "Allows to ban a member.")
@@ -126,11 +131,6 @@
 <br>[setservername](Commands/%F0%9F%9B%A1%EF%B8%8F%20Moderation/setservername.md "Allows you to change the server name.")
 <br>[unmute](Commands/%F0%9F%9B%A1%EF%B8%8F%20Moderation/unmute.md "Allows you to unmute a user.")
 <br>[verifguildbl](Commands/%F0%9F%9B%A1%EF%B8%8F%20Moderation/verifguildbl.md "Allows you to check if there are blacklisted users on the server.")
-## 👑 Premium commands - (4 Commands): 
-[friandise](Commands/%F0%9F%91%91%20Premium%20commands/friandise.md "👑 Premium commands")
-<br>[ismaelo](Commands/%F0%9F%91%91%20Premium%20commands/ismaelo.md "👑 Premium commands")
-<br>[zerio](Commands/%F0%9F%91%91%20Premium%20commands/zerio.md "👑 Premium commands")
-<br>[konoh](Commands/%F0%9F%91%91%20Premium%20commands/konoh.md "👑 Premium commands")
 ## 🎭 Roleplay - (26 Commands): 
 [addbank](Commands/%F0%9F%8E%AD%20Roleplay/addbank.md "Allows you to add change to a user's bank.")
 <br>[additem](Commands/%F0%9F%8E%AD%20Roleplay/additem.md "Allows you to create an item in the server store.")
