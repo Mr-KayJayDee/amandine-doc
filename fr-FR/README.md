@@ -1,4 +1,4 @@
-# Here is the list of Amandine Beta's discord bot commands, this bot has more than 176 commands separated in 10 categories
+# Voici la liste des commandes du bot Discord Amandine Beta, ce bot a plus de 176 commandes séparées dans 10 catégories
 
 ## 🤖 Infos du bot - (8 Commandes): 
 [addbot](Commands/%F0%9F%A4%96%20Infos%20du%20bot/addbot.md "Permet d'obtenir le lien d'invitation du bot.")
@@ -9,6 +9,10 @@
 <br>[mydata](Commands/%F0%9F%A4%96%20Infos%20du%20bot/mydata.md "Vous envoie un fichier contenant toutes les données que nous avons sauvegardé par rapport a votre compte/serveur.")
 <br>[ping](Commands/%F0%9F%A4%96%20Infos%20du%20bot/ping.md "Permet de voir la latence du bot et de l'API de discord.")
 <br>[vote](Commands/%F0%9F%A4%96%20Infos%20du%20bot/vote.md "Permet de voir les sites ou vous pouvez voter pour le bot.")
+## 🎮 Jeux - (3 Commandes): 
+[8ball](Commands/%F0%9F%8E%AE%20Jeux/8ball.md "Permet de poser une question à la boule magique.")
+<br>[bigtext](Commands/%F0%9F%8E%AE%20Jeux/bigtext.md "Permet de grossir votre texte en emojis.")
+<br>[slot](Commands/%F0%9F%8E%AE%20Jeux/slot.md "Permet faire tourner la machine à sous.")
 ## 🛠️ Configuration - (9 Commandes): 
 [cleanify](Commands/%F0%9F%9B%A0%EF%B8%8F%20Configuration/cleanify.md "Permet d'activer ou pas la suppression automatique des messages du bot.")
 <br>[commandchannel](Commands/%F0%9F%9B%A0%EF%B8%8F%20Configuration/commandchannel.md "Permet de configurer le canal de commandes du bot.")
@@ -19,10 +23,20 @@
 <br>[setleave](Commands/%F0%9F%9B%A0%EF%B8%8F%20Configuration/setleave.md "Permet de configurer le message et canal d'au revoir du serveur.")
 <br>[setprefix](Commands/%F0%9F%9B%A0%EF%B8%8F%20Configuration/setprefix.md "Permet de configurer le préfixe du bot sur le serveur.")
 <br>[viewconfiguration](Commands/%F0%9F%9B%A0%EF%B8%8F%20Configuration/viewconfiguration.md "Permet de voir la configuration actuelle des paramètres du bot sur le serveur.")
-## 🎮 Jeux - (3 Commandes): 
-[8ball](Commands/%F0%9F%8E%AE%20Jeux/8ball.md "Permet de poser une question à la boule magique.")
-<br>[bigtext](Commands/%F0%9F%8E%AE%20Jeux/bigtext.md "Permet de grossir votre texte en emojis.")
-<br>[slot](Commands/%F0%9F%8E%AE%20Jeux/slot.md "Permet faire tourner la machine à sous.")
+## 📎 Invitation - (13 Commandes): 
+[addbonus](Commands/%F0%9F%93%8E%20Invitation/addbonus.md "Permet d'ajouter des invitations bonus à un utilisateur.")
+<br>[clearinvites](Commands/%F0%9F%93%8E%20Invitation/clearinvites.md "Permet de supprimer toutes les invitations d'un membre ou de tous les membres.")
+<br>[fetchinvites](Commands/%F0%9F%93%8E%20Invitation/fetchinvites.md "Permet de detecter les nouvelles invitations non enregistrées dans le cache.")
+<br>[inviteblacklist](Commands/%F0%9F%93%8E%20Invitation/inviteblacklist.md "Permet de blacklister un membre du système d'invitations.")
+<br>[inviterank](Commands/%F0%9F%93%8E%20Invitation/inviterank.md "Permet de configurer les rôles récompenses d'invitations.")
+<br>[inviteranks](Commands/%F0%9F%93%8E%20Invitation/inviteranks.md "Permet de voir les rôles récompenses d'invitations du serveur.")
+<br>[invites](Commands/%F0%9F%93%8E%20Invitation/invites.md "Permet de voir vos invitations ou celles d'un ami.")
+<br>[invitesstats](Commands/%F0%9F%93%8E%20Invitation/invitesstats.md "Affiche un graphique avec les statistiques des membres qui ont rejoint le serveur.")
+<br>[removebonus](Commands/%F0%9F%93%8E%20Invitation/removebonus.md "Permet de retirer des invitations bonus à un utilisateur.")
+<br>[restoreinvites](Commands/%F0%9F%93%8E%20Invitation/restoreinvites.md "Permet de restaurer les invitations après une reinitialisation de celles-ci.")
+<br>[setkeep](Commands/%F0%9F%93%8E%20Invitation/setkeep.md "Permet de configurer si les membres gardent leur rôles même s'ils n'ont plus assez d'invitations.")
+<br>[setstacked](Commands/%F0%9F%93%8E%20Invitation/setstacked.md "Permet de configurer si les membres accumulent leurs rôles ou non.")
+<br>[syncinvites](Commands/%F0%9F%93%8E%20Invitation/syncinvites.md "Permet de synchroniser les invitations du serveur avec la base de données du bot.")
 ## 📷 Images - (71 Commandes): 
 [ad](Commands/%F0%9F%93%B7%20Images/ad.md "Permet de générer une image ad avec votre photo de profil ou celle de vos amis.")
 <br>[affect](Commands/%F0%9F%93%B7%20Images/affect.md "Permet de générer une image affect avec votre photo de profil ou celle de vos amis.")
@@ -95,20 +109,6 @@
 <br>[vangogh](Commands/%F0%9F%93%B7%20Images/vangogh.md "Affiche un tableau de Vangogh.")
 <br>[wallpaper](Commands/%F0%9F%93%B7%20Images/wallpaper.md "Affiche un fond d'écran.")
 <br>[wanted](Commands/%F0%9F%93%B7%20Images/wanted.md "Permet de générer une image wanted avec votre photo de profil ou celle de vos amis.")
-## 📎 Invitation - (13 Commandes): 
-[addbonus](Commands/%F0%9F%93%8E%20Invitation/addbonus.md "Permet d'ajouter des invitations bonus à un utilisateur.")
-<br>[clearinvites](Commands/%F0%9F%93%8E%20Invitation/clearinvites.md "Permet de supprimer toutes les invitations d'un membre ou de tous les membres.")
-<br>[fetchinvites](Commands/%F0%9F%93%8E%20Invitation/fetchinvites.md "Permet de detecter les nouvelles invitations non enregistrées dans le cache.")
-<br>[inviteblacklist](Commands/%F0%9F%93%8E%20Invitation/inviteblacklist.md "Permet de blacklister un membre du système d'invitations.")
-<br>[inviterank](Commands/%F0%9F%93%8E%20Invitation/inviterank.md "Permet de configurer les rôles récompenses d'invitations.")
-<br>[inviteranks](Commands/%F0%9F%93%8E%20Invitation/inviteranks.md "Permet de voir les rôles récompenses d'invitations du serveur.")
-<br>[invites](Commands/%F0%9F%93%8E%20Invitation/invites.md "Permet de voir vos invitations ou celles d'un ami.")
-<br>[invitesstats](Commands/%F0%9F%93%8E%20Invitation/invitesstats.md "Affiche un graphique avec les statistiques des membres qui ont rejoint le serveur.")
-<br>[removebonus](Commands/%F0%9F%93%8E%20Invitation/removebonus.md "Permet de retirer des invitations bonus à un utilisateur.")
-<br>[restoreinvites](Commands/%F0%9F%93%8E%20Invitation/restoreinvites.md "Permet de restaurer les invitations après une reinitialisation de celles-ci.")
-<br>[setkeep](Commands/%F0%9F%93%8E%20Invitation/setkeep.md "Permet de configurer si les membres gardent leur rôles même s'ils n'ont plus assez d'invitations.")
-<br>[setstacked](Commands/%F0%9F%93%8E%20Invitation/setstacked.md "Permet de configurer si les membres accumulent leurs rôles ou non.")
-<br>[syncinvites](Commands/%F0%9F%93%8E%20Invitation/syncinvites.md "Permet de synchroniser les invitations du serveur avec la base de données du bot.")
 ## 🛡️ Modération - (16 Commandes): 
 [addrole](Commands/%F0%9F%9B%A1%EF%B8%8F%20Mod%C3%A9ration/addrole.md "Permet d'ajouter un rôle à un membre.")
 <br>[ban](Commands/%F0%9F%9B%A1%EF%B8%8F%20Mod%C3%A9ration/ban.md "Permet de bannir un membre.")

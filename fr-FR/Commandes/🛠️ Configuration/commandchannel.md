@@ -10,8 +10,8 @@
 
 ## Exemples :
 
-*commandchannel add #commandes-bot,
-<br>*commandchannel remove #commandes-staff,
+*commandchannel add #bot-commands,
+<br>*commandchannel remove #staff-commands,
 <br>*commandchannel reset
 
 ## Alias :
